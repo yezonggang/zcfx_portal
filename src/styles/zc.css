@@ -1,0 +1,83 @@
+@charset "utf-8";
+body {
+  font-size: 16px;
+  /* margin: 0;
+  padding: 0; */
+  font-family: "Source SansSC";
+  color: #333333;
+  background-color: #FAFAFA;
+}
+ul,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dl,
+dt,
+dd,
+button,
+textarea,
+input {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border: none;
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+i{
+  font-style:normal;
+}
+s{
+  text-decoration:none;
+}
+
+.main-content {
+	width: 1200px;
+	margin: 20px auto;
+}
+
+.title {
+	font-size: 18px;
+  padding: 10px 5px;
+  font-weight: bold;
+}
+.tags-group {
+	margin-bottom: 10px;
+}
+.tags-group .el-tag {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.el-row {
+	border-radius: 0;
+	padding: 5px;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	
+}
+.el-col {
+	display: inline-grid;
+}
+.el-card__header {
+	padding: 10px 20px;
+}
+.view-text {
+	/* white-space:nowrap; overflow:hidden; text-overflow:ellipsis; */
+	/* display: inline-block; */
+	overflow-wrap: break-word; /*  css3属性，当内容超过指定容器的边界时是否断行  */
+	max-width: 100%;
+	text-align: left;
+}
+.field {
+	/* font-weight: bold; */
+	padding-right: 20px;
+	/* padding-bottom: 20px; */
+	color: #b3b3b3;
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2023721",
+  "name": "zc",
+  "font_family": "fontFamily",
+  "css_prefix_text": "el-icon-zc",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1130624",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "13301872",
+      "name": "excel",
+      "font_class": "excel",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1248",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5799812",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "1790499",
+      "name": "货币",
+      "font_class": "huobi",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    }
+  ]
+}
